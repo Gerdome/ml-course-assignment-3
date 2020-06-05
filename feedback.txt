@@ -1,0 +1,27 @@
+Feedback for Gerrit Merz:
+Q1.1 (performance, 2p): 6.0
+Q1.1 (explanation, 2p): 9.0
+Q1.2 (performance, 1p): 7.1
+Q1.2 (explanation, 1p): 8.0
+Q1.3 (performance, 2p): 7.1
+Q1.3 (explanation, 2p): 9.0
+Q2.1 (performance, 3.5p): 8.6
+Q2.1 (explanation, 3.5p): 9.0
+Q2.2 (performance, 1.5p): 5.9
+Q2.2 (explanation, 1.5p): 10.0
+Q3.1 (2p): 10.0
+Q3.2 (4p): 10.0
+Q3.3 (4p): 9.0
+Q4.1 (performance, 2.5p): 7.5
+Q4.1 (explanation, 2.5p): 8.0
+Q4.2 (5p): 7.0
+Total: 8.3/10 (33.2/40) 
+
+Comments:
+Q1.1: Can you motivate your choice of optimizer?  
+Q1.2: No explanation of why it might fit better. 
+Q1.3: Did you try batch normalization? 
+Q2.1: Can you motivate your choice of optimizer? 
+Q3.3: Superimposed heatmap coloring makes it impossible to see the underlying image. 
+Q4.1: Can you explain why unfreezing helps, and why overfitting might behappening?  
+Q4.2: A lot of tuning unexplored.
